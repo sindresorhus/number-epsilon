@@ -18,7 +18,7 @@ $ npm install --save number-epsilon
 var EPSILON = require('number-epsilon');
 
 console.log(EPSILON);
-//=> 1.1102230246251565e-16
+//=> 2.220446049250313e-16
 ```
 
 
