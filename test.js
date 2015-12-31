@@ -1,8 +1,6 @@
-'use strict';
-var test = require('ava');
-var EPSILON = require('./');
+import test from 'ava';
+import x from './';
 
-test(function (t) {
-	t.assert(typeof EPSILON === 'number');
-	t.end();
+test(t => {
+	t.is(typeof x, 'number');
 });
