@@ -1,7 +1,7 @@
 {
   "name": "number-epsilon",
   "version": "1.0.2",
-  "description": "ES6 Number.EPSILON ponyfill",
+  "description": "ES2015 Number.EPSILON ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/number-epsilon",
   "author": {
@@ -19,10 +19,7 @@
     "index.js"
   ],
   "keywords": [
-    "es6",
     "es2015",
-    "ecmascript",
-    "harmony",
     "ponyfill",
     "polyfill",
     "shim",

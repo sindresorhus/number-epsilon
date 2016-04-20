@@ -1,6 +1,6 @@
 # number-epsilon [![Build Status](https://travis-ci.org/sindresorhus/number-epsilon.svg?branch=master)](https://travis-ci.org/sindresorhus/number-epsilon)
 
-> ES6 [`Number.EPSILON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON) ponyfill
+> ES2015 [`Number.EPSILON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON) ponyfill
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
 
