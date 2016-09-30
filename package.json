@@ -1,6 +1,6 @@
 {
   "name": "number-epsilon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ES2015 Number.EPSILON ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/number-epsilon",
