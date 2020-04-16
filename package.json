@@ -1,33 +1,33 @@
 {
-  "name": "number-epsilon",
-  "version": "1.0.3",
-  "description": "ES2015 Number.EPSILON ponyfill",
-  "license": "MIT",
-  "repository": "sindresorhus/number-epsilon",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "ava"
-  },
-  "files": [
-    "index.js"
-  ],
-  "keywords": [
-    "es2015",
-    "ponyfill",
-    "polyfill",
-    "shim",
-    "number",
-    "epsilon",
-    "float"
-  ],
-  "devDependencies": {
-    "ava": "*"
-  }
+	"name": "number-epsilon",
+	"version": "1.0.3",
+	"description": "ES2015 Number.EPSILON ponyfill",
+	"license": "MIT",
+	"repository": "sindresorhus/number-epsilon",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"es2015",
+		"ponyfill",
+		"polyfill",
+		"shim",
+		"number",
+		"epsilon",
+		"float"
+	],
+	"devDependencies": {
+		"ava": "^0.25.0"
+	}
 }

@@ -1,6 +1,6 @@
 import test from 'ava';
-import x from './';
+import numberEpsilon from './';
 
-test(t => {
-	t.is(typeof x, 'number');
+test('main', t => {
+	t.is(typeof numberEpsilon, 'number');
 });
