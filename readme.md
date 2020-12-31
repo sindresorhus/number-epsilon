@@ -1,4 +1,4 @@
-# number-epsilon [![Build Status](https://travis-ci.com/sindresorhus/number-epsilon.svg?branch=master)](https://travis-ci.com/sindresorhus/number-epsilon)
+# number-epsilon
 
 > ES2015 [`Number.EPSILON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON) [ponyfill](https://ponyfill.com)
 
